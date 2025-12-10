@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": 1,
+    "name": "Paris, France",
+    "rating": 4.8,
+    "image": "paris.jpg",
+    "price": 450,
+    "description": "City of Love, Eiffel Tower, rich culture.",
+    "best_time": "April - June",
+    "category": "Romantic"
+  },
+  {
+    "id": 2,
+    "name": "Bali, Indonesia",
+    "rating": 4.7,
+    "image": "bali.jpg",
+    "price": 380,
+    "description": "Beaches, Temples, Nature heaven.",
+    "best_time": "June - September",
+    "category": "Nature"
+  },
+  {
+    "id": 3,
+    "name": "Dubai, UAE",
+    "rating": 4.6,
+    "image": "dubai.jpg",
+    "price": 520,
+    "description": "Luxury shopping, Burj Khalifa, desert safari.",
+    "best_time": "November - February",
+    "category": "Luxury"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "userId": 1,
+    "destination": "Paris",
+    "days": 5,
+    "plan": [
+      "Day 1: Eiffel Tower",
+      "Day 2: Louvre Museum",
+      "Day 3: Seine River Cruise",
+      "Day 4: Versailles Palace",
+      "Day 5: Paris Street Walk"
+    ]
+  }
+]
